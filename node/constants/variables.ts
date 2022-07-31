@@ -1,0 +1,8 @@
+export const CONNECTOR_NAME = '{{appTitle}}'
+export const CONNECTOR_ENDPOINT = '{{connectorEndpoint}}'
+export const VBASE_BUCKET = '{{appName}}'
+export const VBASE_CONFIG_BASE_PATH = 'storeConfig'
+export const APP_VENDOR = '{{appVendor}}'
+export const FEED_ID = '{{feedId}}'
+export const VTEX_APP_KEY_HEADER = 'x-vtex-api-appkey'
+export const VTEX_APP_TOKEN_HEADER = 'x-vtex-api-apptoken'
